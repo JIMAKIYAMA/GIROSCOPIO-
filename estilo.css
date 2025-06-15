@@ -1,0 +1,35 @@
+body {
+    font-size: 25px; /* Aumenta o tamanho de toda a fonte */
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: center; /* 🔥 Centraliza todo o texto */
+}
+
+img, video {
+    display: block;
+    margin: 20px auto;
+}
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 0 auto; /* Centraliza na horizontal */
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    text-align: center; /* Centraliza texto e elementos inline */
+}
+
+img, video {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
