@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="estilo.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JIM AKIYAMA</title>
+</head>
+<body>
+    <h1>TRABALHO DE FISICA(GIROSCOPICO)</h1>
+    <p>O trabalho tem o intuito de explicar o efeito giroscopio</p>
+    <h2>Introdução  O que é o Efeito Giroscópio?</h2>
+    <p>O efeito giroscópico é o comportamento que um corpo em rotação apresenta, onde ele tende a manter sua orientação no espaço. Isso ocorre devido à conservação do momento angular.</p>
+    <h2>Introducao</h2>
+    <p>Um giroscópio é basicamente uma roda ou disco que gira em torno de um eixo.
+        Quando está girando, o giroscópio resiste a mudanças na direção do seu eixo de rotação.
+        Usado em aviões, navios, satélites, bicicletas, drones, e até no celular (sensores de movimento).
+    </p>
+    <h3>Princípio Básico – Conservação do Momento Angular</h3>
+    <p>O momento angular é uma grandeza que
+         mede a quantidade de rotação de um corpo
+         Se não há força externa (torque), o
+          momento angular se mantém constante..
+         Por isso, quanto mais rápido a roda gira, mais ela "resiste" a mudanças na sua orientação.</p>
+<iframe src="https://drive.google.com/file/d/1eDdCk541UCLn-B6AZTnSIdavoAG7g-zk/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe>   
+    <h3>⚙️Fórmulas Envolvidas</h3>
+    <h5><b>1. Momento Angular (L)</b></h5>
+    <p>O momento angular da roda é dado por:L=I⋅ω
+</p>
+    <ul>
+        <li>L = momento angular (kg·m²/s)</li>
+        <li>I = momento de inércia da roda</li>
+        <li>ω = velocidade angular da roda (rad/s)</li>
+    </ul>
+    <h5>2.Velocidade Angular (𝜔)</h5>
+    <p>Relacionada à velocidade linear da bicicleta (v) pela fórmula:</p>
+    <p><b>ω = <sup>v</sup>&frasl;<sub>r</sub></b></p>
+    <ul>
+        <li>v = velocidade da bicicleta (m/s)</li>
+        <li>r = raio da roda (m)</li>
+    </ul>
+    <h5>3. Momento de Força Giroscópico (Torque)</h5>
+    <p> Quando tenta mudar a direção da roda (inclinar ou virar), surge um torque giroscópico dado por:</p>
+    <h6>TORQUE:</h6>
+    <p><b>τ=<sup>dL</sup>&frasl;<sub>dt</sub></b></p>
+    <p>No caso de precessão (como acontece na bicicleta quando vira o guidão), o torque é relacionado por:</p>
+    <p><b>τ=L⋅Ω</b></p>
+    <ul>
+        <li>τ = torque (N·m)</li>
+        <li>L = momento angular</li>
+        <li>Ω = velocidade de precessão (rad/s), ou seja, a taxa com que você tenta virar a roda</li>
+    </ul>
+<h3>GIROSCOPIO DE 3 EIXOS</h3>
+<iframe src="https://drive.google.com/file/d/1L39dOf2fRtZm6B2TqDiL6jNTSRGhZg4-/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe>
+<p>No vídeo, o aluno impulsiona o giroscópio de três eixos utilizando uma corda, gerando uma rotação angular (ω), que, por sua vez, cria um momento angular (L).</p>
+<iframe src="https://drive.google.com/file/d/1wfNzSB2Ks3_zXF1oZ6j7uERo66kRFPR8/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe>
+<p>O peso do giroscópio gera um torque em relação ao ponto de apoio, que dá origem ao vetor torque (τ)</p>
+<iframe src="https://drive.google.com/file/d/1whfVNmojRfKdC2HmP4ZyMkW9G40RBzYP/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe><p>Para compensar o torque, surge o movimento de precessão. De acordo com a equação 𝜏 = 𝑑 𝐿/𝑑 𝑡 , a variação do vetor momento angular (𝑑𝐿/dt) se manifesta como a mudança na direção de dL, caracterizando o movimento de precessão</p>
+
+<iframe src="https://drive.google.com/file/d/1w2uq0RreErs2FmzzwrDYW-S_-ldCTPPg/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe>
+<p>No video O movimento do eixo do giroscópio na horizontal, girando em torno do ponto de apoio, é chamado de movimento de precessão.</p>
+
+<h3>Torque:</h3>
+<p><b>&tau; = r &times; m &times; g</b></p>
+
+<ul>
+    <li>r = distância até o ponto de apoio (m)</li>
+    <li>m = massa (kg)</li>
+    <li>g = gravidade (9,8 m/s²)</li>
+</ul>
+
+<h3>Momento Angular:</h3>
+<p><b>L = I &times; &omega;</b></p>
+
+<ul>
+    <li>I = momento de inércia</li>
+    <li>&omega; = velocidade angular da rotação (rad/s)</li>
+</ul>
+
+<h3>Fórmula completa da Precessão:</h3>
+<p><b>&Omega; = (r &times; m &times; g) / (I &times; &omega;)</b></p>
+<iframe src="https://drive.google.com/file/d/1z2r6tc_wjvHJLfN8fMD_b3lWS9xYwXrE/preview" 
+        width="640" height="480" 
+        allow="autoplay">
+</iframe>
+</video>
+</body> 
+</html>
